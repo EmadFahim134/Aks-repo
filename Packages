@@ -1,0 +1,24 @@
+Package: dinit
+Architecture: amd64
+Version: 0.22.1
+Maintainer: EmadFahim email:mremad.fahim@gmail.com
+Filename: pool/dinit_0.22.1_amd64.deb
+Size: 720
+MD5sum: 93704a142a51c984bf619f7e20dc5498
+SHA1: 4509ed460dd00fe98043e2d9b46f3fa036eb2543
+SHA256: d856d983599b02d43df6623ff4a53e7ac911bdda2d677c8553c05ffe7bc43d90
+SHA512: e153f8c9a5c25bc4157a5d784734da52ee3180ce4dae2828b1be4c222d5a02a18125312604d9ff5fb4877e158528ccd6b9fffc9263116e6205c6a14eeacfe295
+Description: Service init system
+
+Package: leftwm
+Architecture: amd64
+Version: 1.0
+Maintainer: EmadFahim <mremad.fahim@gmail.com>
+Filename: pool/leftwm_1.0_amd64.deb
+Size: 416604
+MD5sum: b0c8dcb1fc435bdbf94448762cafb619
+SHA1: 0151de4b6dd4c2525dd5530c213d8305def49ea8
+SHA256: 63174c0dcc621f75121c6cbffbe3de81ea1f3332bc79ccbb65b7e19587485622
+SHA512: 212ddf639eb0e7f5325a146aaa3c1960547d07138029e6eeacb9e27a9d759547d8fba47e2d23318efcacf34135fc0ce0cad998b8aeb004994d28497220de29ce
+Description: Tiling window manager
+
