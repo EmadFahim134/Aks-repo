@@ -1,3 +1,9 @@
+Origin: EmadFahim134
+Label: Aks-repo
+Suite: stable
+Codename: trixie
+Architectures: amd64 i386
+Components: main
 Date: Sat, 03 Oct 2026 10:03:58 +0000
 MD5Sum:
  26d31ecd87b7a637cf69e9a2dafba77f              961 Packages
